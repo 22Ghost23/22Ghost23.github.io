@@ -1,0 +1,1 @@
+var e=[`private_pool`,`waterfall`,`bbq`,`outdoor_dining`,`sun_loungers`,`kitchen`,`dishes`,`dining_table`,`air_conditioning`,`heating`,`tv`,`wifi`,`washer`,`hot_water`,`outdoor_shower`,`extra_bedding`,`free_parking`,`private_entrance`,`fire_extinguisher`,`long_stays`];export{e as t};

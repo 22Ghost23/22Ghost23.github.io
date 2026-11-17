@@ -1,0 +1,1 @@
+function e(){return{en:``,fr:``,ar:``}}function t(e,t){return e&&(e[t]||e.en||e.fr||e.ar)||``}export{t as n,e as t};
